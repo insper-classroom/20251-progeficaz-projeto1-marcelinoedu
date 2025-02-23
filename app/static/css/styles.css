@@ -1,8 +1,11 @@
+*{
+  font-family: 'Caveat', cursive;
+}
+
 body {
   margin: 0;
   overflow: hidden;
   background-color: white;
-  font-family: 'Caveat', cursive;
 }
 
 input:focus {
